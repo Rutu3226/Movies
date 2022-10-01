@@ -98,11 +98,7 @@
     "Type": "Bollywood",
     "Actor": "Shahid Kapoor"
     },
-  
- 
-    
-
-{
+  {
     "name": "Gaurav Sonawane",
     "Movie": "Dhadkan",
     "Type": "Bollywood",
@@ -171,87 +167,43 @@
     "Actor": "Ranbir Kapoor"
  
     },
-  
-
 {
  "name":"Aditi kantale",
   "Movie":"RRR",
   "Type":"Tollywood",
   "Actor":"Ram Charan",
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
- {
+},
+{
     "name": "Rushikesh surya",
     "Movie": "DDLJ",
     "Type": "Bollywood",
     "Actor": "kajol"
   },
-
-
+{
  "name":"gaurav",
   "Movie":"ready",
   "Type":"Tollywood",
   "Actor":"salman",
-
-
-
-
-
-
-
-
-
-    {
+},
+ {
       "name": "A K",
       "Movie": "Purple heart",
       "Type": "Hollywood",
       "Actor": "Sofia carson"
-   
-      },
-
-
-
-
-
-
-
-
-
- {
+   },
+  {
     "name": "Rushikesh suryawanshi",
     "Movie": "Avengers-Infinity War",
     "Type": "Hollywood",
     "Actor": "Cris Ivans"
     
-}
+},
 {
     "name": "Pratik Lagad",
     "Movie": "captain marvel",
     "Type": "Hollywood",
     "Actor": "Ben Mendelsohn"
   },
-
-
  {
 
     "name": "Chaitra Deshpande",
@@ -273,15 +225,12 @@
     "Actor": "Hrithik Roshan"
     
 },
-
-
 {
     "name": "Anshulika Borse",
     "Movie": "Moonfall",
     "Type": "Hollywood",
     "Actor": "Patrick Wilson"
-    
-}
+ },
 
   
 {
@@ -289,33 +238,27 @@
     "Movie": "Life of Pie",
     "Type": "Hollywood",
     "Actor": "Irrfan Khan"
-    
-}
-
+},
 {
     "name": "Gouri Rawas",
     "Movie": "Shutter Island",
     "Type": "Hollywood",
     "Actor": "leonardo decaprio"
     },
-    
-    {
+ {
     "name": "Adnan Shaikh",
     "Movie": "Call me by your name",
     "Type": "Hollywood",
     "Actor": "timothee chalamet"
     
-}
+},
 {
     "name": "Priyanka",
     "Movie": "Forest Gump",
     "Type": "Hollywood",
     "Actor": "Tom Hank"
     
-}
-
-
-
+},
 {
     "name": "Omkar Tikone",
     "Movie": "captain marvel",
@@ -360,7 +303,12 @@
 
     "Actor": "Sidharth Malhotra"
 }
-
+{
+    "name": "vyankatesh patil",
+    "Movie": "shootouted at wadala",
+    "Type": "Bollywood",
+    "Actor": "jhon abraham"
+},
 
 
 
