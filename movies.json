@@ -338,6 +338,12 @@
     "Actor": "Leonardo Da Capri"
     },
 {
+    "name": "shailesh magar",
+    "Movie": "sheershah",
+    "Type": "Bollywood",
+    "Actor": "Sidharth Malhotra"
+},
+{
 
     "name": "Shubham Nile",
 
@@ -346,12 +352,12 @@
     "Type": "Bollywood",
 
     "Actor": "Sidharth Malhotra"
+}
 
 
 
 
-
-    },
+   
 
   
   ]
