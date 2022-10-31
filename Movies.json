@@ -1,0 +1,278 @@
+[
+    {
+        "name": "Vihang Gurav",
+        "Movie": "Jab we met",
+        "Type": "Bollywood",
+        "Actor": "Shahid Kapoor"
+    },
+    {
+        "name": "Priyansh Patel",
+        "Movie": "The Outsiders",
+        "Type": "Hollywood",
+        "Actor": "Tom Cruise"
+    },
+    {
+        "name": "Mahek Vani",
+        "Movie": "Dilwale",
+        "Type": "Bollywood",
+        "Actor": "Shah Ruk Khan"
+    },
+    {
+        "name": "Pradeep Namhi",
+        "Movie": "Arya",
+        "Type": "Tollywood",
+        "Actor": "Allu Arjun"
+    },
+    {
+        "name": "Aafra Bajaj",
+        "Movie": "The Pursuit of Happyness",
+        "Type": "Hollywood",
+        "Actor": "Will Smith"
+    },
+    {
+        "name": "Rajnandini Pol",
+        "Movie": "Kabir Singh",
+        "Type": "Bollywood",
+        "Actor": "Shahid Kapoor"
+    },
+    {
+        "name": "Ram Kalbhor",
+        "Movie": "The Scorpion King",
+        "Type": "Hollywood",
+        "Actor": "Dwayne Johnson"
+    },
+    {
+        "name": "Muskaan Konda",
+        "Movie": "Main Hoon Na",
+        "Type": "Bollywood",
+        "Actor": "Shah Ruk Khan"
+    },
+    {
+        "name": "Shabnam Patule",
+        "Movie": "Poison lvy",
+        "Type": "Hollywood",
+        "Actor": "Leonardo DiCaprio"
+    },
+    {
+        "name": "Saminiti Roy",
+        "Movie": "Ishq Vishk",
+        "Type": "Bollywood",
+        "Actor": "Shahid Kapoor"
+    },
+    {
+        "name": "Arslaan Ranbhise",
+        "Movie": "All the Right Moves",
+        "Type": "Hollywood",
+        "Actor": "Tom Cruise"
+    },
+    {
+        "name": "Jaydeep Kudalkar",
+        "Movie": "Baazigar",
+        "Type": "Bollywood",
+        "Actor": "Shah Ruk Khan"
+    },
+    {
+        "name": "Rishab Kanure",
+        "Movie": "The Mummy Returns",
+        "Type": "Hollywood",
+        "Actor": "Dwayne Johnson"
+    },
+    {
+        "name": "Gaurav Sonawane",
+        "Movie": "Dhadkan",
+        "Type": "Bollywood",
+        "Actor": "Akshay Kumar"
+    },
+    {
+        "name": "Sandip Tamboli",
+        "Movie": "Veer Zaara",
+        "Type": "Bollywood",
+        "Actor": "Shah Ruk Khan"
+    },
+    {
+        "name": "Saloni Undre",
+        "Movie": "Critters 3",
+        "Type": "Bollywood",
+        "Actor": "Shahid Kapoor"
+    },
+    {
+        "name": "Gaurav Sonawane",
+        "Movie": "Good Newz",
+        "Type": "Hollywood",
+        "Actor": "Leonardo DiCaprio"
+    },
+    {
+        "name": "Jaywant Talekar",
+        "Movie": "Sooryavanshi",
+        "Type": "Bollywood",
+        "Actor": "Ajay devgan"
+    },
+    {
+        "name": "shailesh Vavare",
+        "Movie": "King Richard",
+        "Type": "Hollywood",
+        "Actor": "Will Smith"
+    },
+    {
+        "name": "Aarav Mhetre",
+        "Movie": "Rustom",
+        "Type": "Bollywood",
+        "Actor": "Akshay Kumar"
+    },
+    {
+        "name": "Anupama Bugad",
+        "Movie": "Snowpiercer",
+        "Type": "Hollywood",
+        "Actor": "Chris Evans"
+    },
+    {
+        "name": "Harsh Shaha",
+        "Movie": "Tanhaji",
+        "Type": "Bollywood",
+        "Actor": "Ajay devgan"
+    },
+    {
+        "name": "Avishka Satpute",
+        "Movie": "Airlift",
+        "Type": "Bollywood",
+        "Actor": "Akshay Kumar"
+    },
+    {
+        "name": "Aditya Kavade",
+        "Movie": "Wake Up Sid",
+        "Type": "Bollywood",
+        "Actor": "Ranbir Kapoor",
+    },
+    {
+        "name": "Vibhavari Awate",
+        "Movie": "Sarrainodu",
+        "Type": "Tollywood",
+        "Actor": "Allu Arjun"
+    },
+    {
+        "name": "Madhav Surya",
+        "Movie": "Brahmastra",
+        "Type": "Bollywood",
+        "Actor": "Ranbir Kapoor"
+    },
+    {
+        "name": "Kavya Gore",
+        "Movie": "Magadheera",
+        "Type": "Tollywood",
+        "Actor": "Ram Charan",
+    },
+    {
+        "name": "Akhilesh Ravade",
+        "Movie": "Dhruva",
+        "Type": "Tollywood",
+        "Actor": "Ram Charan"
+    },
+    {
+        "name": "Rekha Rawal",
+        "Movie": "Premam",
+        "Type": "Tollywood",
+        "Actor": "Naga Chaitanya"
+    },
+    {
+        "name": "Aayushi Pal",
+        "Movie": "Vikram Vedha",
+        "Type": "Bollywood",
+        "Actor": "Hrithik Roshan"
+    },
+    {
+        "name": "Anil Lad",
+        "Movie": "Autonagar Surya",
+        "Type": "Tollywood",
+        "Actor": "Naga Chaitanya"
+    },
+    {
+        "name": "Chaitrali Hanki",
+        "Movie": "Maharshi",
+        "Type": "Tollywood",
+        "Actor": "Mahesh Babu"
+    },
+    {
+        "name": "Anupama Bugad",
+        "Movie": "Snowpiercer",
+        "Type": "Hollywood",
+        "Actor": "Chris Evans"
+    },
+    {
+        "name": "Avinash Dhup",
+        "Movie": "Sarkaru Vaari Paata",
+        "Type": "Tollywood",
+        "Actor": "Mahesh Babu"
+    },
+    {
+        "name": "Aaryan Singh",
+        "Movie": "Super 30",
+        "Type": "bollywood",
+        "Actor": "Hrithik Roshan"
+    },
+    {
+        "name": "Aneez Bargir",
+        "Movie": "Bang Bang",
+        "Type": "Bollywood",
+        "Actor": "Hrithik Roshan"
+    },
+    {
+        "name": "Shree Tikone",
+        "Movie": "Bharat",
+        "Type": "Bollywood",
+        "Actor": "Salman Khan"
+    },
+    {
+        "name": "Mangesh Kesari",
+        "Movie": "Stand Up Guys",
+        "Type": "Hollywood",
+        "Actor": "AI Pacino"
+    },
+    {
+        "name": "Ganesh Awasti",
+        "Movie": "War",
+        "Type": "Bollywood",
+        "Actor": "Hrithik Roshan"
+    },
+    {
+        "name": "Paresh Agrwal",
+        "Movie": "Righteous Kill",
+        "Type": "Hollywood",
+        "Actor": "AI Pacino"
+    },
+    {
+        "name": "Anuj Khete",
+        "Movie": "Sultan",
+        "Type": "Bollywood",
+        "Actor": "Salman Khan"
+    },
+    {
+        "name": "Jayesh Gare",
+        "Movie": "The Great Gatsby",
+        "Type": "Hollywood",
+        "Actor": "Leonardo Da Capri"
+    },
+    {
+        "name": "Aarush Bagadi",
+        "Movie": "Knives Out",
+        "Type": "Hollywood",
+        "Actor": "Chris Evans"
+    },
+    {
+        "name": "Aasawari Boj",
+        "Movie": "Remember the Titans",
+        "Type": "Hollywood",
+        "Actor": "Ryan Gosling"
+    }
+    {
+        "name": "Aschrya Naik",
+        "Movie": "Vivah",
+        "Type": "Bollywood",
+        "Actor": "Shahid Kapoor"
+    },
+    {
+        "name": "Om Talrkar",
+        "Movie": "Krrish",
+        "Type": "Bollywood",
+        "Actor": "Hrithik Roshan"
+    },
+]
